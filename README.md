@@ -1,3 +1,5 @@
+## 주기적인 참고 링크 용
+- https://github.com/he-y/Awesome-Pruning#type-of-pruning // awesome-pruning 프루닝 관련 최신정보
 
 ## 왜 많은 사람들이 데이터 사이언티스트 직업을 떠나는가.
 - Here’s why so many data scientists are leaving their jobs
