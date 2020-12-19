@@ -70,3 +70,8 @@
 - ▲얼굴 인식 기술 기업 알체라
 - ▲기업용 AI 소프트웨어 개발 애자일소다
 - ▲AI 기술을 스마트팩토리 솔루션에 적용한 이삭엔지니어링
+
+## Object Detection issue
+- YOLO v4 vs YOLO v5? 
+- https://medium.com/deelvin-machine-learning/yolov4-vs-yolov5-db1e0ac7962b
+  - 결론 : 보다 실시간적인 정확도를 요구하는 프로그램 통합목적은 v5, 좀더 커스터마이징적이고 연구가치있는건 v4
