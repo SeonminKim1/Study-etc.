@@ -1,4 +1,5 @@
 ## 주기적인 참고 링크 용
+- https://hoya012.github.io/  // 딥러닝 
 - https://github.com/he-y/Awesome-Pruning#type-of-pruning // awesome-pruning 프루닝 관련 최신정보
 
 ## 왜 많은 사람들이 데이터 사이언티스트 직업을 떠나는가.
@@ -34,11 +35,12 @@
 #### 『이 글은 원본 https://www.youtube.com/watch?v=FPcdxHCxH_o&feature=youtu.be 영상 내용을 요약한 것 입니다. 』
 
 ### (1) 탑 컨퍼런스
-- 인공지능 : NIPS 
-- 인공지능과 컴퓨터 비전 분야 : NIPS, ICML, ICLR, CVPR, ICCV
+- 인공지능 : NIPS (NeurlIPS) 뉴립스, AAAI
+- 인공지능과 컴퓨터 비전 분야 : NIPS, ICML, ICLR(아이클리어), CVPR(IEEE주관), ICCV
 - 정보보안 : S&P, CCS, USENIX Security, NDSS
 - 아키텍처 : MICRO, HPCA
-- 자연어 처리 : ACL, NACCL
+- 자연어 처리 : ACL, NACCL, EMNLP
+- 음성 : ICASSP, Interspeech(인터스피치)
 
 ### (2) 검색방법 
 - 구글에 자신이 원하는 분야 top conference 로 검색
