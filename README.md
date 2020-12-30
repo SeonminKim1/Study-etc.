@@ -1,3 +1,7 @@
+## 링크
+- https://search.crossref.org/ // 논문 DOI 
+- https://speller.cs.pusan.ac.kr/ // 맞춤법 검사기
+
 ## 주기적인 참고 링크 용
 - https://hoya012.github.io/  // 딥러닝 
 - https://github.com/he-y/Awesome-Pruning#type-of-pruning // awesome-pruning 프루닝 관련 최신정보
