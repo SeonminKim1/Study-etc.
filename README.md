@@ -4,6 +4,7 @@
 
 ## 주기적인 참고 링크 용
 - https://hoya012.github.io/  // 딥러닝 
+- https://paperswithcode.com/sota?fbclid=IwAR16wLSr-BAcl-eZAwMVIHdsmpgBF6dN4ETR5kRGg02f_5xBBOlN6uMapo4 // 각 논문별 SOTA (State of the art)
 - https://github.com/he-y/Awesome-Pruning#type-of-pruning // awesome-pruning 프루닝 관련 최신정보
 - https://okky.kr/article/842696 // 네카라쿠배가는법 1 (이력서)
 - https://okky.kr/article/842953 // 네카라쿠배가는법 2 (코테, 면접)
