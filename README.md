@@ -1,13 +1,3 @@
-## 링크
-- https://search.crossref.org/ // 논문 DOI 
-- https://speller.cs.pusan.ac.kr/ // 맞춤법 검사기
-
-## 주기적인 참고 링크 용
-- https://hoya012.github.io/  // 딥러닝 
-- https://paperswithcode.com/sota?fbclid=IwAR16wLSr-BAcl-eZAwMVIHdsmpgBF6dN4ETR5kRGg02f_5xBBOlN6uMapo4 // 각 논문별 SOTA (State of the art)
-- https://github.com/he-y/Awesome-Pruning#type-of-pruning // awesome-pruning 프루닝 관련 최신정보
-- https://okky.kr/article/842696 // 네카라쿠배가는법 1 (이력서)
-- https://okky.kr/article/842953 // 네카라쿠배가는법 2 (코테, 면접)
 
 ## 왜 많은 사람들이 데이터 사이언티스트 직업을 떠나는가.
 - Here’s why so many data scientists are leaving their jobs
@@ -18,6 +8,12 @@
 - Don’t learn Machine Learning in 24 hours
 - 원글 : https://towardsdatascience.com/dont-learn-machine-learning-in-24-hours-3ea3624f9881
 - 번역 및 문서 작성자 : https://github.com/SeonminKim1/etc/blob/master/Don%E2%80%99t%20learn%20Machine%20Learning%20in%2024%20hours.md   
+
+## 데이터 사이언스가 되고 싶어하는 사람들을 위해
+- https://github.com/Team-Neighborhood/I-want-to-study-Data-Science 
+
+## 기술면접 대비를 위한 요약정리
+- https://github.com/JaeYeopHan/Interview_Question_for_Beginner
 
 ## AI 소프트엔지니어 VS AI 리서치 엔지니어
 #### 『이 글은 원본 https://okky.kr/article/596494 링크의 댓글을 인용하였습니다 』
@@ -84,3 +80,15 @@
 - YOLO v4 vs YOLO v5? 
 - https://medium.com/deelvin-machine-learning/yolov4-vs-yolov5-db1e0ac7962b
   - 결론 : 보다 실시간적인 정확도를 요구하는 프로그램 통합목적은 v5, 좀더 커스터마이징적이고 연구가치있는건 v4
+  
+  ## 유용한 링크
+- https://search.crossref.org/ // 논문 DOI 
+- https://speller.cs.pusan.ac.kr/ // 맞춤법 검사기
+
+## 링크
+- https://hoya012.github.io/  // 딥러닝 
+- https://paperswithcode.com/sota?fbclid=IwAR16wLSr-BAcl-eZAwMVIHdsmpgBF6dN4ETR5kRGg02f_5xBBOlN6uMapo4 // 각 논문별 SOTA (State of the art)
+- https://github.com/he-y/Awesome-Pruning#type-of-pruning // awesome-pruning 프루닝 관련 최신정보
+- https://okky.kr/article/842696 // 네카라쿠배가는법 1 (이력서)
+- https://okky.kr/article/842953 // 네카라쿠배가는법 2 (코테, 면접)
+
