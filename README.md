@@ -92,3 +92,5 @@
 - https://okky.kr/article/842696 // 네카라쿠배가는법 1 (이력서)
 - https://okky.kr/article/842953 // 네카라쿠배가는법 2 (코테, 면접)
 
+## 데이터셋 링크
+- https://www.kamp-ai.kr/front/main/MAIN.01.01.jsp // KAMP 제조데이터
