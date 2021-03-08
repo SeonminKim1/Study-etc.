@@ -1,21 +1,23 @@
 
-## 왜 많은 사람들이 데이터 사이언티스트 직업을 떠나는가.
+## 데이터 사이언스 
+### 왜 많은 사람들이 데이터 사이언티스트 직업을 떠나는가.
 - Here’s why so many data scientists are leaving their jobs
 - 원글 : https://towardsdatascience.com/why-so-many-data-scientists-are-leaving-their-jobs-a1f0329d7ea4
 - 번역 및 문서 작성자 : https://github.com/youngwoos/etc/blob/master/Here%E2%80%99s%20why%20so%20many%20data%20scientists%20are%20leaving%20their%20jobs.md   
 
-## 머신러닝 하루만에 배우려고 하지 마라. 
+### 머신러닝 하루만에 배우려고 하지 마라. 
 - Don’t learn Machine Learning in 24 hours
 - 원글 : https://towardsdatascience.com/dont-learn-machine-learning-in-24-hours-3ea3624f9881
 - 번역 및 문서 작성자 : https://github.com/SeonminKim1/etc/blob/master/Don%E2%80%99t%20learn%20Machine%20Learning%20in%2024%20hours.md   
 
-## 데이터 사이언스가 되고 싶어하는 사람들을 위해
+### 데이터 사이언스가 되고 싶어하는 사람들을 위해
 - https://github.com/Team-Neighborhood/I-want-to-study-Data-Science 
 
-## 기술면접 대비를 위한 요약정리
-- https://github.com/JaeYeopHan/Interview_Question_for_Beginner
+<hr>
 
-## AI 소프트엔지니어 VS AI 리서치 엔지니어
+## AI & 인공지능
+
+### AI 소프트엔지니어 VS AI 리서치 엔지니어
 #### 『이 글은 원본 https://okky.kr/article/596494 링크의 댓글을 인용하였습니다 』
 - AI엔지니어의 레벨
 - AI분야는 '리서치 엔지니어'와 '소프트웨어 엔지니어' 크게 나눠 볼 수 있지 않을까 합니다. (물론 이 두 극단에서 중간에 서 있는 엔지니어도 있을 수 있겠죠?)
@@ -76,14 +78,16 @@
 - ▲기업용 AI 소프트웨어 개발 애자일소다
 - ▲AI 기술을 스마트팩토리 솔루션에 적용한 이삭엔지니어링
 
-## Object Detection issue
+### Object Detection issue
 - YOLO v4 vs YOLO v5? 
 - https://medium.com/deelvin-machine-learning/yolov4-vs-yolov5-db1e0ac7962b
   - 결론 : 보다 실시간적인 정확도를 요구하는 프로그램 통합목적은 v5, 좀더 커스터마이징적이고 연구가치있는건 v4
   
-  ## 유용한 링크
-- https://search.crossref.org/ // 논문 DOI 
-- https://speller.cs.pusan.ac.kr/ // 맞춤법 검사기
+<hr>
+
+## Job & etc
+### 기술면접 대비를 위한 요약정리
+- https://github.com/JaeYeopHan/Interview_Question_for_Beginner
 
 ## 링크
 - https://hoya012.github.io/  // 딥러닝 
@@ -94,3 +98,22 @@
 
 ## 데이터셋 링크
 - https://www.kamp-ai.kr/front/main/MAIN.01.01.jsp // KAMP 제조데이터
+
+  ## 유용한 링크
+- https://search.crossref.org/ // 논문 DOI 
+- https://speller.cs.pusan.ac.kr/ // 맞춤법 검사기
+
+<hr>
+
+## 야간대학원
+
+### 1. 고려대
+- 특수대학원(컴퓨터정보통신대학원)
+  - 인공지능융합학과(https://gscit.korea.ac.kr/gscit/department/ai_intro.do)
+  - 모집요강 : https://gscit.korea.ac.kr/_res/gscit/etc/admission_guideline2021.pdf
+  - 고려대학교 야간대학원 후기 : https://itkmj.blogspot.com/2019/06/blog-post_18.html
+
+### 2. 연세대
+- 공학대학원
+  - 모집요강 : https://eyonsei.yonsei.ac.kr/main/contents.asp?mid=m02_02
+  - 연세대학교 야간대학원 후기 : http://www.kwangsiklee.com/2019/07/%EC%95%BC%EA%B0%84%EB%8C%80%ED%95%99%EC%9B%90%EC%97%90-%EB%8C%80%ED%95%9C-5%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%95%BC%EA%B8%B0/ 
